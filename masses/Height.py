@@ -1,8 +1,8 @@
 #Males and Females percentage
 
-males = int(input("please enter the number of males"))
+males = int(input("please enter the number of males: "))
 
-females = int(input("please enter the number of females"))
+females = int(input("please enter the number of females: "))
 
 sumOfallStudents= males + females
 
